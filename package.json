@@ -1,0 +1,37 @@
+{
+  "name": "webcrawler",
+  "version": "0.1.0",
+  "description": "a web crawler built with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerogravit1/webcrawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "puppeteer"
+  ],
+  "author": "Jonathan Schaffer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerogravit1/webcrawler/issues"
+  },
+  "homepage": "https://github.com/zerogravit1/webcrawler#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "puppeteer": "^1.6.0-next.1532381444032"
+  },
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "eslint-config-google": "^0.9.1",
+    "grunt": "^1.0.3",
+    "grunt-contrib-eslint": "0.0.5",
+    "grunt-eslint": "^21.0.0",
+    "grunt-githooks": "^0.6.0",
+    "gruntify-eslint": "^5.0.0"
+  }
+}
