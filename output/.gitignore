@@ -1,0 +1,4 @@
+# Ignore this file
+# directory needed for crawler output
+*
+!.gitignore
